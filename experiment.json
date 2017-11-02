@@ -1,0 +1,12 @@
+{
+    "name": "expfactory_dietary_decision",
+    "alt_name": "Dietary Decisions Task",
+    "description": "Subjects rate 50 items for health and for tastiness in two stages on a five point scale. The order of ratings as well as order of buttons is counterbalanced across subjects. A reference item for health and tastiness, rated neutrally previously on both scales, is chosen for each subject. In stage 3 they are first presented with this reference item and told to choose between the other food items and the reference item. Participants are grouped ex post as self-controllers or non-self-controllers depending on whether they choose the items in stage 3 ranked higher in taste or in health (self controller if you choose the item ranked higher on health and vice versa for non-self-controller).",
+    "version": "1.0.1",
+    "repository": {"type": "git", "url": "https://github.com/exprxiv/expfactory_dietary_decision.git"}, 
+    "contributors": ["Ian Eisenberg", "Zeynep Enkavi", "Patrick Bissett", "Vanessa Sochat", "Teon L Brooks", "Russell Poldrack"],
+    "duration": "12",
+    "engine": {"front-end": "jspsych"},
+    "ontology": [ {"convention": "Cognitive Atlas", "term": "trm_56674d6aa9faf"} ],
+    "reference": "http://www.sciencemag.org/content/324/5927/646.short"
+}
